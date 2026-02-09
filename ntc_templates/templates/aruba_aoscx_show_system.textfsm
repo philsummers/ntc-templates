@@ -1,6 +1,6 @@
 Value Required HOSTNAME (\S+)
-Value CONTACT (\S+)
-Value LOCATION (\S+)
+Value CONTACT (.+)
+Value LOCATION (.+)
 Value VENDOR (\S+(\s+\S+)*)
 Value PRODUCT (.+?)
 Value SERIAL (\S+)

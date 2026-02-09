@@ -1,0 +1,15 @@
+---
+parsed_sample:
+  - base_mac: "b8d4e7-007880"
+    contact: "ICT Infrastructure"
+    hostname: "6300"
+    location: "Office Building"
+    product: "JL659A 6300M 48SR5 CL6 PoE 4SFP56 Swch"
+    serial: "SG01KMY0HT"
+    time_zone: "Europe/London"
+    uptime_days: "5"
+    uptime_hours: "11"
+    uptime_minutes: "30"
+    uptime_weeks: ""
+    vendor: "Aruba"
+    version: "FL.10.13.1120"
